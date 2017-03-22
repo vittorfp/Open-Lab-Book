@@ -87,7 +87,7 @@ Resulta em:
 
 Resulta em:
 
-[Oi!]( https://s-media-cache-ak0.pinimg.com/originals/98/78/83/9878837214f9391b9d0864de26bde00e.jpg "Jake")
+[Oi!]( jake.jpg "Jake")
 
 *****
 
