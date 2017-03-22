@@ -91,6 +91,14 @@ Resulta em:
 
 *****
 
+\[\[ Link do github | alt =Nome da imagem\]\]
+
+Resulta em:
+
+[[https://github.com/vittorfp/Open-Lab-Book/blob/master/notes/jake.jpg|alt=oi]]
+
+*****
+
 **É necessario colocar no README.md um link para novas notas.**
 *Segue modelo de link:*
 
