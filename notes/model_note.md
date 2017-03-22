@@ -79,15 +79,15 @@ Resulta em:
 
 Resulta em:
 
-[Texto do link aqui](endereço.do.link.aqui "título do link aqui")
+[ Texto do link aqui ](endereço.do.link.aqui "título do link aqui")
 
 *****
 
-\[Texto alt da imagem aqui](URL.da.imagem.aqui "Título da Imagem aqui")
+\[ Texto alt da imagem aqui ](URL.da.imagem.aqui "Título da Imagem aqui")
 
 Resulta em:
 
-[Oi!]( jake.jpg "Jake")
+[ Oi! ]( jake.jpg "Jake")
 
 *****
 
@@ -95,7 +95,7 @@ Resulta em:
 
 Resulta em:
 
-[[https://github.com/vittorfp/Open-Lab-Book/blob/master/notes/jake.jpg|alt=oi]]
+[[ https://github.com/vittorfp/Open-Lab-Book/blob/master/notes/jake.jpg|alt=oi ]]
 
 *****
 
