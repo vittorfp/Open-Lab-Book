@@ -5,8 +5,6 @@ Colocar os paranaues tudo que foram feitos aqui.
 
 ## Dicas de sintaxe:
 
-****
-
 \*enfatizado\* (e.g., itálico)
 
 Resulta em:
@@ -89,7 +87,7 @@ Resulta em:
 
 Resulta em:
 
-[Oi!]( http://vignette2.wikia.nocookie.net/horadeaventurabr/images/c/cd/Jake999.png/revision/latest?cb=20130407021850&path-prefix=pt-br "Jake")
+[Oi!]( https://s-media-cache-ak0.pinimg.com/originals/98/78/83/9878837214f9391b9d0864de26bde00e.jpg "Jake")
 
 *****
 
@@ -106,4 +104,5 @@ Resulta em:
 \[Retornar ao inicio](https://github.com/vittorfp/Open-Lab-Book/blob/master/README.md "Oi")
 
 ****
-Valeu Falou!
+
+Maiores informações [aqui](http://daringfireball.net/projects/markdown/syntax "Dicas sobre markdown")
