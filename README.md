@@ -1,4 +1,4 @@
-# Open-Lab-Book
-This repository contains my open lab book. Here I'll write laboratory memories of each work day at NNC and CTPMAG.
+# Open Lab Book
+Esse repositorio abriga meu diario de laboratorio aberto. Vou escrever as memorias de cada dia de trabalho no NNC e no CTPMAG.
 
-[Wednesday - 22/03/2017 - CTPMAG](https://github.com/vittorfp/Open-Lab-Book/blob/master/README.md "oi")
+[Quarta-feira - 22/03/2017 - CTPMAG](https://github.com/vittorfp/Open-Lab-Book/blob/master/notes/22-03-2017.md "oi")
