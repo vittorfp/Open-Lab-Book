@@ -1,7 +1,7 @@
-# Titulo da nota
+# Título da nota
 
 
-Colocar os paranaues tudo que foram feitos aqui.
+Colocar os paranauê tudo que foram feitos aqui.
 
 ## Dicas de sintaxe:
 
@@ -98,7 +98,7 @@ Resulta em:
 
 *****
 
-**É necessario colocar no Fim da nota um link para voltar para o indice.**
+**É necessário colocar no Fim da nota um link para voltar para o índice.**
 *Segue modelo de link:*
 
 \[Retornar ao inicio](https://github.com/vittorfp/Open-Lab-Book/blob/master/README.md "Oi")
@@ -106,3 +106,5 @@ Resulta em:
 ****
 
 Maiores informações [aqui](http://daringfireball.net/projects/markdown/syntax "Dicas sobre markdown")
+
+
