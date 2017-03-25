@@ -87,7 +87,7 @@ Resulta em:
 
 Resulta em:
 
-[ Oi! ]( jake.jpg "Jake")
+[ Oi! ]( imagens/jake.jpg "Jake")
 
 *****
 
