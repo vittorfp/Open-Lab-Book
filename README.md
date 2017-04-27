@@ -9,6 +9,8 @@ Esse repositório abriga meu diário aberto de laboratório. Vou escrever as mem
 
 #### Abril
 
+* [Terça e Quinta - 25 e 27/04/2017 - NNC/CTPMAG](https://github.com/vittorfp/Open-Lab-Book/blob/master/notes/25e27-04-2017.md "oi")
+
 * [Terça-feira - 18/04/2017 - NNC](https://github.com/vittorfp/Open-Lab-Book/blob/master/notes/18-04-2017.md "oi")
 
 * [Semana inteira - 10 a 14/04/2017 - CTPMAG/NNC](https://github.com/vittorfp/Open-Lab-Book/blob/master/notes/15to19-04-2017.md "oi")
