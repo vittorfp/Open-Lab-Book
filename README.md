@@ -9,7 +9,7 @@ Esse repositório abriga meu diário aberto de laboratório. Vou escrever as mem
 
 #### Maio
 
-* [Terça - 02/05/2017 - NNC](https://github.com/vittorfp/Open-Lab-Book/blob/master/notes/02-05-2017.md "oi")
+* [Terça-feira - 02/05/2017 - NNC](https://github.com/vittorfp/Open-Lab-Book/blob/master/notes/02-05-2017.md "oi")
 
 #### Abril
 
@@ -17,13 +17,13 @@ Esse repositório abriga meu diário aberto de laboratório. Vou escrever as mem
 
 * [Terça-feira - 18/04/2017 - NNC](https://github.com/vittorfp/Open-Lab-Book/blob/master/notes/18-04-2017.md "oi")
 
-* [Semana inteira - 10 a 14/04/2017 - CTPMAG/NNC](https://github.com/vittorfp/Open-Lab-Book/blob/master/notes/15to19-04-2017.md "oi")
+* [Semana inteira - 15 a 19/04/2017 - CTPMAG/NNC](https://github.com/vittorfp/Open-Lab-Book/blob/master/notes/15to19-04-2017.md "oi")
 
 * [Semana inteira - 10 a 14/04/2017 - CTPMAG/NNC](https://github.com/vittorfp/Open-Lab-Book/blob/master/notes/10to14-04-2017.md "oi")
 
 #### Março
 
-* [Quarta-feira - 28/03/2017 - CTPMAG](https://github.com/vittorfp/Open-Lab-Book/blob/master/notes/29-03-2017.md "oi")
+* [Quarta-feira - 29/03/2017 - CTPMAG](https://github.com/vittorfp/Open-Lab-Book/blob/master/notes/29-03-2017.md "oi")
 
 * [Terça-feira - 28/03/2017 - NNC](https://github.com/vittorfp/Open-Lab-Book/blob/master/notes/28-03-2017.md "oi")
 
