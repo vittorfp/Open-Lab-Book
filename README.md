@@ -9,6 +9,8 @@ Esse repositório abriga meu diário aberto de laboratório. Vou escrever as mem
 
 #### Maio
 
+* [Quarta-feira - 03/05/2017 - CTPMAG](https://github.com/vittorfp/Open-Lab-Book/blob/master/notes/03-05-2017.md "oi")
+
 * [Terça-feira - 02/05/2017 - NNC](https://github.com/vittorfp/Open-Lab-Book/blob/master/notes/02-05-2017.md "oi")
 
 #### Abril
@@ -34,6 +36,6 @@ Esse repositório abriga meu diário aberto de laboratório. Vou escrever as mem
 
 ****
 
-### Contato
+## Contato
 
 	vittorfp@ufmg.br
