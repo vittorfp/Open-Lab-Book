@@ -7,10 +7,19 @@ Esse repositório abriga meu diário aberto de laboratório. Vou escrever as mem
 ****
 
 ## Diário
+#### Junho
+
+****
+
+* [Quinta-feira - 25/05/2017 - CTPMAG](https://github.com/vittorfp/Open-Lab-Book/blob/master/notes/01-06-2017.md "oi")
+
+
 
 #### Maio
 
-* [terçafeira - 30/05/2017 - CTPMAG](https://github.com/vittorfp/Open-Lab-Book/blob/master/notes/30-05-2017.md "oi")
+****
+
+* [Terça-feira - 30/05/2017 - CTPMAG](https://github.com/vittorfp/Open-Lab-Book/blob/master/notes/30-05-2017.md "oi")
 
 ****
 
