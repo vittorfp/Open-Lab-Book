@@ -10,6 +10,8 @@ Esse repositório abriga meu diário aberto de laboratório. Vou escrever as mem
 
 #### Agosto
 
+* [Sexta-feira - 11/08/2017 - CASA](https://github.com/vittorfp/Open-Lab-Book/blob/master/notes/11-08-2017.md "oi")
+
 * [Terça e Quinta - 8 e 10 /08/2017 - NNC/CASA ](https://github.com/vittorfp/Open-Lab-Book/blob/master/notes/08e10-08-2017.md "oi")
 
 
