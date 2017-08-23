@@ -1,6 +1,6 @@
 # Open Lab Book
 
-Olá! Meu nome é Vittor, sou aluno do curso de Engenharia de Controle e Automação na UFMG. Estou trabalhando no Núcleo de Neurociências da UFMG sob a orientação do professor Cleiton Aguiar do departamento de Fisiologia do ICB.
+Olá! Meu nome é Vittor, sou aluno do curso de Engenharia de Controle e Automação na UFMG. Estou trabalhando  no Núcleo de Neurociências da UFMG sob a orientação do professor Cleiton Aguiar do departamento de Fisiologia do ICB.
 
 Esse repositório abriga meu diário aberto de laboratório. Vou escrever as memórias de cada dia de trabalho no NNC e no CTPMAG.
 
@@ -10,7 +10,13 @@ Esse repositório abriga meu diário aberto de laboratório. Vou escrever as mem
 
 #### Agosto
 
-* [Quarta-feira - 11/08/2017](https://github.com/vittorfp/Open-Lab-Book/blob/master/notes/16-08-2017.md "oi")
+****
+
+* [Terça-feira - 22/08/2017 NNC/CASA](https://github.com/vittorfp/Open-Lab-Book/blob/master/notes/22-08-2017.md "oi")
+
+****
+
+* [Quarta-feira - 16/08/2017](https://github.com/vittorfp/Open-Lab-Book/blob/master/notes/16-08-2017.md "oi")
 
 ****
 
